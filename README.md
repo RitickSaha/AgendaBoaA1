@@ -13,7 +13,7 @@ This project is a simple Implimentation of [Githus Search Api](https://docs.gith
 3. When a user scrolls to the bottom of the view, the app should load more records using pagination.
 4. When the app first loads, the screen will show a default of the most “stars”.
    Each item on the list should show the User profile picture, and the name of the repository.
-5. The uses ia able to View the Userd profile and The gitrepo insige the application
+5. The user is able to View the Other Users github profile and their repo inside the application
 
 <center> 
 <image src="assets\gif1.gif" width=300>
